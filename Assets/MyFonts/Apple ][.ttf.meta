@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6c5a2c8a81f150d4fb14b632a13f8311
+timeCreated: 1526041748
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Apple ][
+  fontNames:
+  - Apple ][
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
